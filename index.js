@@ -13,6 +13,7 @@ import ReactDOM from "react-dom"
 
 // if I want to import a section of the webpage from another file, all I have to do is
 // import (element name) from "./element"
-import Header from "./Header"
+import Header from "./components/Header"
 
 // - - - - - - - - - - -
+
