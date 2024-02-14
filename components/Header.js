@@ -1,8 +1,8 @@
 import React from "react"
 
 export default function Header() {
-       <nav>
-                <img src=""></img>
+       <nav className="navbar">
+                <img src="./images/KT.png"></img>
                 <h3></h3>
                 <h4></h4>
        </nav>

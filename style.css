@@ -1,0 +1,21 @@
+/* Simple code that makes my life easier */
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+
+:root {
+        --yellow: #ffe715;
+        --gray: #141414;
+        --lightgray: #abb29e;
+        --blue: #15222E;
+        --babyblue: #56b6c2;
+        --lightblue: #169fff;
+        --pink: #a478dd;
+        --beige: #e5c062;
+        --red: #e05345;
+        --green: #98a446;
+}
+
+/* - - - - - - - - - - -- - - - - - -- - - - - - - - - -- -  - - - - - */
